@@ -1,2 +1,2 @@
 <p align="center">
-  <img width="575" height="575" alt="Untitled157_20260717231510" src="https://github.com/user-attachments/assets/555e599e-db61-4631-9bd6-6ef1c81a0b27" />
+<img width="500" height="500" alt="IMG_4560-removebg-preview" src="https://github.com/user-attachments/assets/3fcd8fe4-48e8-4be3-aa85-24796e099ed0" />
